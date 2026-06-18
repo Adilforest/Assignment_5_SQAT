@@ -5,3 +5,6 @@ __pycache__/
 .DS_Store
 reports/test-run.log
 reports/screenshots/
+venv/
+node_modules/
+.idea/
